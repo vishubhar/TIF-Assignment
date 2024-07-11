@@ -1,0 +1,39 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 804px;
+    width: 1440px;
+}
+
+.header1{
+    margin-left: 100px;
+    margin-top: 33px;
+    flex: 1;
+}
+.header1 img{
+ width: 107px;
+ height: 83px;
+
+}
+.header2{
+    flex: 1;
+}
+.header2 button{
+    position: absolute;
+        top: 32px;
+        left: 1277px;
+        height: 42px;
+        width: 122px;
+        border: solid 1px #FFFFFF;
+        border-radius: 21px;
+        gap: 10px;
+}
+
+.vector{
+    position: absolute;
+    top: 0;
+    right: -100px;;
+}
+
